@@ -1,11 +1,13 @@
 # Spring_JSP_Java
-Учебные лабы (Конец 2019)
+Учебные лабы с курсов (nov-dec 2019)
 
 _____
  Пример с использованием JSP:
-- JSP_1
+- JSP_1 (JSP+java, jdbc) Небольшой пример.
 
 Пример с использованием Spring Framework:
-- WebMVC
-- dbJPA
-- hebirnate (Реализация hebirnate orm)
+- dbJPA / hebirnate  - hebirnateOrm. Единственные с комментариями :'(
+[spring-core, spring-beans, spring-context, spring-jdbc etd...)
+
+ JSP и Spring:
+- WebMVC - Spring, JDBC, JSP, Heb. orm. Редактирование списка курсов и вывод (Учебных).
