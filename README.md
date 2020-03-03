@@ -10,4 +10,4 @@ _____
 [spring-core, spring-beans, spring-context, spring-jdbc etd...)
 
  JSP и Spring:
-- WebMVC - Spring, JDBC, JSP, Heb. orm. Редактирование списка курсов и вывод (Учебных).
+- WebMVC - Spring, JDBC, JSP, Heb. orm. Редактирование списка курсов (Учебных) и их вывод.
